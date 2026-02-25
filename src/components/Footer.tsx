@@ -98,7 +98,7 @@ export default function Footer() {
 
         {/* Contact Info Bar */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 py-8 border-t border-slate-800 text-sm">
-          <ContactItem icon={<MapPin size={18} />} text="Gate 1, IIT Indore, Simrol, MP 453552" />
+          <ContactItem icon={<MapPin size={18} />} text="Gate 1 B, IIT Indore, Simrol, MP 453252" />
           <ContactItem icon={<Phone size={18} />} text="+91 8094994017" />
           <ContactItem icon={<Mail size={18} />} text="support@apnathikana.shop" />
         </div>
